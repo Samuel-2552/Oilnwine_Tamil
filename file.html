@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Document Retriever</title>
+</head>
+<body>
+  <h1>Document Retriever</h1>
+
+  <script>
+
+    function downloadFile(filePath) {
+    // Create a new "a" element
+    var a = document.createElement("a");
+
+    // Set the href and download attributes for the link
+    a.href = filePath;
+    a.download = "download";
+
+    // Append the link to the DOM
+    document.body.appendChild(a);
+
+    // Click the link
+    a.click();
+
+    // Remove the link from the DOM
+    document.body.removeChild(a);
+    }
+
+
+    var date = new Date(); // Get the current date
+    var month = currentDate.getMonth() + 1; // months are zero-indexed, so add 1
+    var date = currentDate.getDate();
+
+    // Check the current date and set the file path for the PDF and Word documents
+    if (date.getMonth() == 11 && date.getDate() == 25) {
+      var pdfPath = "christmas_list.pdf";
+      var wordPath = "holiday_schedule.docx";
+    } else {
+      var pdfPath = "monthly_report.pdf";
+      var wordPath = "meeting_minutes.docx";
+    }
+
+    // Use the PDF.js library to render the PDF in the browser
+    var pdfElement = document.createElement("iframe");
+    pdfElement.src = pdfPath;
+    document.body.appendChild(pdfElement);
+
+    // Create a link to download the Word document
+    var wordLink = document.createElement("a");
+    wordLink.href = wordPath;
+    wordLink.download = "download";
+    wordLink.innerHTML = "Download Word Document";
+    document.body.appendChild(wordLink);
+  </script>
+</body>
+</html>
