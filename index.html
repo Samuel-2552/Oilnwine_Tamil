@@ -2,7 +2,6 @@
 <html>
 <head>
   <title>Oilnwine Tamil</title>
-  <meta http-equiv="refresh" content="10; url=https://oilnwine.org/" />
   <style>
     #loading-screen {
       position: fixed;
@@ -34,23 +33,11 @@
 
 <script>
 
-    function downloadFilePdf(filePath) {
-    // Create a new "a" element
-    var a = document.createElement("a");
 
-    // Set the href and download attributes for the link
-    a.href = filePath;
-    a.download = date + "-" + month + "-Oilnwine";
+    setTimeout(function() {
+      window.location = pdfFile;// Perform the action here
+    }, 5000); // This will delay the execution by 1 second (1000 milliseconds)
 
-    // Append the link to the DOM
-    document.body.appendChild(a);
-
-    // Click the link
-    a.click();
-
-    // Remove the link from the DOM
-    document.body.removeChild(a);
-    }
 
     function downloadFileWord(filePath) {
     // Create a new "a" element
@@ -78,8 +65,10 @@
     var pdfFile = "TamilOilnwine/"+month + "-" + date + ".pdf";
     //var wordFile = month + "-" + date + ".docx";
 
-    downloadFilePdf(pdfFile);
+    //downloadFilePdf(pdfFile);
     //downloadFile(wordFile);
+
+    setTimeout();
 
 </script>
 
