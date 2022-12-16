@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (மே மாதம் 20 ஆம் தேதி)
 
 
@@ -135,7 +133,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 22ஆலோசனையில்லாமையால் எண்ணங்கள் சித்தியாமற்போகும்; ஆலோசனைக்காரர் அநேகர் இருந்தால் அவைகள் உறுதிப்படும்.
 23மனுஷனுக்குத் தன் வாய்மொழியினால் மகிழ்ச்சியுண்டாகும்; ஏற்றகாலத்தில் சொன்ன வார்த்தை எவ்வளவு நல்லது!
 
-
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

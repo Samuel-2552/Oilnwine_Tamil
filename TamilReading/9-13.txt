@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (
 செப்டெம்பர்  மாதம் 13 ஆம் தேதி, 2021)
@@ -105,7 +103,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 10பூர்வ எல்லைக்குறியை மாற்றாதே; திக்கற்ற பிள்ளைகளுடைய நிலங்களை அபகரித்துக்கொள்ளாதே.
 11அவர்களுடைய மீட்பர் வல்லவர்; அவர் உன்னுடனே அவர்களுக்காக வழக்காடுவார்.
 
-
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

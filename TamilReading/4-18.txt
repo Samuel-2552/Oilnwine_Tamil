@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (ஏப்ரல் மாதம் 18 ஆம் தேதி)
 
 
@@ -110,7 +108,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 11வஞ்சனையால் தேடின பொருள் குறைந்துபோகும்; கைப்பாடாய்ச் சேர்க்கிறவனோ விருத்தியடைவான்.
 
 
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

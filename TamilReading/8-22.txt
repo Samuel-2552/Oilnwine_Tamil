@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (
 ஆகஸ்ட் மாதம் 22 ஆம் தேதி, 2021)
@@ -155,7 +153,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 நீதிமொழிகள் 21:27
 27துன்மார்க்கருடைய பலி அருவருப்பானது; அதைத் துர்ச்சிந்தையோடே செலுத்தினாலோ எத்தனை அதிகமாய் அருவருக்கப்படும்.
 
-
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

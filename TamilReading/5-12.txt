@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (மே மாதம்12 ஆம் தேதி)
 
 1 சாமுவேல் 12
@@ -105,7 +103,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 4ஆரோக்கியமுள்ள நாவு ஜீவவிருட்சம்; நாவின் மாறுபாடோ ஆவியை நொறுக்கும்.
 
 
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

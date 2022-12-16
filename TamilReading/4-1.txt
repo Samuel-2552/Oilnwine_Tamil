@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (
 ஏப்ரல் மாதம் 1 ஆம் தேதி,)
 
@@ -132,7 +130,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 10நீதிமான் தன் மிருகஜீவனைக் காப்பாற்றுகிறான்; துன்மார்க்கருடைய இரக்கமும் கொடுமையே.
 
 
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (14 மார்ச்  )
 
 எண்ணாகமம் 21
@@ -112,7 +110,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 10நீதிமான்கள் நன்றாயிருந்தால் பட்டணம் களிகூரும்; துன்மார்க்கர் அழிந்தால் கெம்பீரம் உண்டாகும்.
 11செம்மையானவர்களுடைய ஆசீர்வாதத்தினால் பட்டணம் நிலைபெற்றோங்கும்; துன்மார்க்கருடைய வாயினால் அது இடிந்துவிழும்.
 
-
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (நவம்பர்  22)
 எசேக்கியேல் 44
 1பின்பு அவர் என்னை கிழக்குக்கு எதிரே பரிசுத்த ஸ்தலத்துக்குப் புறவாசல் வழியே திரும்பப்பண்ணினார்; அது பூட்டப்பட்டிருந்தது.
@@ -85,7 +83,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 8அநியாய வட்டியினாலும் ஆதாயத்தினாலும் தன் ஆஸ்தியைப் பெருகப்பண்ணுகிறவன், தரித்திரர்பேரில் இரங்குகிறவனுக்காக அதைச் சேகரிக்கிறான்.
 9வேதத்தைக் கேளாதபடி தன் செவியை விலக்குகிறவனுடைய ஜெபமும் அருவருப்பானது.
 10உத்தமர்களை மோசப்படுத்தி, பொல்லாத வழியிலே நடத்துகிறவன் தான் வெட்டின குழியில் தானே விழுவான்; உத்தமர்களோ நன்மையைச் சுதந்தரிப்பார்கள்.
-
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

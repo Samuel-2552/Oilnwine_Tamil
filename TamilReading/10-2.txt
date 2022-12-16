@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (அக்டோபர் 02)
 
 ஏசாயா 66
@@ -85,7 +83,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 
 15துஷ்டனே, நீ நீதிமானுடைய வாசஸ்தலத்துக்கு விரோதமாய்ப் பதிவிராதே; அவன் தங்கும் இடத்தைப் பாழாக்கிப்போடாதே.
 16நீதிமான் ஏழுதரம் விழுந்தாலும் திரும்பவும் எழுந்திருப்பான்; துன்மார்க்கரோ தீங்கிலே இடறுண்டு கிடப்பார்கள்.
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

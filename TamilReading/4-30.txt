@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (
 ஏப்ரல் மாதம் 30 ஆம் தேதி)
 
@@ -107,7 +105,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 14பின்வாங்கும் இருதயமுள்ளவன் தன் வழிகளிலேயும், நல்ல மனுஷனோ தன்னிலே தானும் திருப்தியடைவான்.
 
 
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

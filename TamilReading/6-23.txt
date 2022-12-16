@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 
 
 
@@ -117,7 +115,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 நீதிமொழிகள் 17:23
 23துன்மார்க்கன், நீதியின் வழியைப்புரட்ட மடியிலுள்ள பரிதானத்தை வாங்குகிறான்.
 
-
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

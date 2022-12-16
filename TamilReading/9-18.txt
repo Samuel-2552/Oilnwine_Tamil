@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (
 செப்டெம்பர்  மாதம் 18 ஆம் தேதி, 2021)
@@ -123,7 +121,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 20மதுபானப்பிரியரையும் மாம்சப்பெருந்தீனிக்காரரையும் சேராதே.
 21குடியனும் போஜனப்பிரியனும் தரித்திரராவார்கள்; தூக்கம் கந்தைகளை உடுத்துவிக்கும்.
 
-
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

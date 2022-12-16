@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (நவம்பர்  23)
 எசேக்கியேல் 45:13-25
 13நீங்கள் செலுத்தவேண்டிய காணிக்கையாவது: ஒரு கலம் கோதுமையிலே ஒரு மரக்காலில் ஆறிலொருபங்கையும், ஒரு கலம் வாற்கோதுமையிலே ஒரு மரக்காலில் ஆறிலொரு பங்கையும் படைக்கக்கடவீர்கள்.
@@ -94,7 +92,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
 11ஐசுவரியவான் தன் பார்வைக்கு ஞானவான்; புத்தியுள்ள தரித்திரனோ அவனைப் பரிசோதிக்கிறான்.
 
-
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

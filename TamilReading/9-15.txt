@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (
 செப்டெம்பர்  மாதம் 15 ஆம் தேதி, 2021)
@@ -101,7 +99,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 13பிள்ளையை தண்டியாமல் விடாதே; அவனைப் பிரம்பினால் அடித்தால் அவன் சாகான்.
 14நீ பிரம்பினால் அவனை அடிக்கிறதினால் பாதாளத்துக்கு அவன் ஆத்துமாவைத் தப்புவிப்பாயே.
 
-
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

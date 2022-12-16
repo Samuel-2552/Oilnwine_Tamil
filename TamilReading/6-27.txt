@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 
 
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (
@@ -111,7 +109,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 நீதிமொழிகள் 18:1
 1பிரிந்து போகிறவன் தன் இச்சையின்படி செய்யப்பார்க்கிறான், எல்லா ஞானத்திலும் தலையிட்டுக் கொள்ளுகிறான்.
 
-
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

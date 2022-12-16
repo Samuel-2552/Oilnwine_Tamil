@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (மே மாதம்10 ஆம் தேதி)
 
 
@@ -103,7 +101,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 34நீதி ஜனத்தை உயர்த்தும்; பாவமோ எந்த ஜனத்துக்கும் இகழ்ச்சி.
 35ராஜாவின் தயை விவேகமுள்ள பணிவிடைக்காரன் மேலிருக்கும்; அவனுடைய கோபமோ இலச்சையுண்டாக்குகிறவன் மேலிருக்கும்.
 
-
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

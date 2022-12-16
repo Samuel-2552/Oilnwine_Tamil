@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 
 
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (
@@ -90,7 +88,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 18நம்பிக்கையிருக்குமட்டும் உன் மகனைச் சிட்சைசெய்; ஆனாலும் அவனைக் கொல்ல உன் ஆத்துமாவை எழும்பவொட்டாதே.
 19கடுங்கோபி ஆக்கினைக்குள்ளாவான்; நீ அவனைத் தப்புவித்தால் திரும்பவும் தப்புவிக்கவேண்டியதாய் வரும்.
 
-
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

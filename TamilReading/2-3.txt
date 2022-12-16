@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (
 பிப்ரவரி  03)
 
@@ -111,7 +109,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 33வாதையையும் இலச்சையையும் அடைவான்; அவன் நிந்தை ஒழியாது.
 34ஸ்திரீயைப்பற்றிய எரிச்சல் புருஷனுக்கு மூர்க்கத்தை உண்டுபண்ணும்; அவன் பழிவாங்கும் நாளில் தப்பவிடான்.
 35அவன் எந்த ஈட்டையும் பாரான்; அநேகம் வெகுமதிகளைக் கொடுத்தாலும் அமர்ந்திருக்கமாட்டான்.
-
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

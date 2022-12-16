@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (ஜனவரி     16)
 ஆதியாகமம் 32:13-32
 13அன்று இராத்திரி அவன் அங்கே தங்கி, தன் கைக்கு உதவினவைகளிலே தன் சகோதரனாகிய ஏசாவுக்கு வெகுமானமாக,
@@ -118,7 +116,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 நீதிமொழிகள் 3:19-20
 
 
-19 கர்த்தர் ஞானத்தினாலே பூமியை அஸ்திபாரப்படுத்தி, புத்தியினாலே வானங்களை ஸ்தாபித்தார்.
-20அவருடைய ஞானத்தினாலே ஆழங்கள் பிரிந்தது, ஆகாயமும் பனியைப் பெய்கிறது.
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

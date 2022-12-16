@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (அக்டோபர் 22)
 
 எரேமியா 39
@@ -120,7 +118,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 
 நீதிமொழிகள் 26:1-2
 1உஷ்ணகாலத்திலே உறைந்த பனியும், அறுப்புக்காலத்திலே மழையும் தகாததுபோல, மூடனுக்கு மகிமை தகாது.
-2அடைக்கலான் குருவி அலைந்துபோவதுபோலும், தகைவிலான் குருவி பறந்து போவதுபோலும், காரணமில்லாமலிட்ட சாபம் தங்காது.
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

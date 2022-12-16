@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (
 ஆகஸ்ட் மாதம் 19 ஆம் தேதி, 2021)
@@ -114,7 +112,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 22பலவான்களுடைய பட்டணத்தின் மதிலை ஞானமுள்ளவன் ஏறிப்பிடித்து, அவர்கள் நம்பின அரணை இடித்துப்போடுவான்.
 
 
-
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

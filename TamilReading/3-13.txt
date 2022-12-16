@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (13 மார்ச்  )
 
 எண்ணாகமம் 19
@@ -102,7 +100,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 நீதிமொழிகள் 11:8
 8நீதிமான் இக்கட்டினின்று விடுவிக்கப்படுவான்; அவன் இருந்த இடத்திலே துன்மார்க்கன் வருவான்.
 
-
-Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

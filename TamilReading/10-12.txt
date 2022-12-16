@@ -1,5 +1,3 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 இன்றைக்கு படிக்க வேண்டிய வேத பகு‌தி (அக்டோபர் 12)
 
 எரேமியா 19
@@ -107,7 +105,3 @@ Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 9நீ உன் அயலானுடனேமாத்திரம் உன் வியாஜ்யத்தைக்குறித்து வழக்காடு, மற்றவனிடத்தில் இரகசியத்தை வெளிப்படுத்தாதே.
 10மற்றப்படி அதைக் கேட்கிறவன் உன்னை நிந்திப்பான்; உன் அவமானம் உன்னைவிட்டு நீங்காது.
 Tamil O.V. Bible - பரிசுத்த வேதாகமம் O.V.
-
-
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
