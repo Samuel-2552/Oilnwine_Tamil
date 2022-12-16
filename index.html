@@ -1,8 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Oilnwine Tamil</title>
+  <link rel="icon" href="lightTransp.png">
+
   <style>
+    body{
+      background-color: #333;
+    }
     #loading-screen {
       position: fixed;
       top: 0;
@@ -29,47 +37,25 @@
     <img id="loading-image" src="light.gif" alt="Loading..." />
   </div>
 
+  <img src="light.png" height="60" width="auto" alt="Icon">
+  <br>
+  <iframe id="pdf-iframe" width="100%" height="1000"></iframe>
+
 </body>
 
 <script>
-
-
+    //window.addEventListener("load", function() {
+      //document.querySelector("#loading-screen").style.display = "none";
+    //});
     setTimeout(function() {
-      window.location = pdfFile;// Perform the action here
-    }, 5000); // This will delay the execution by 1 second (1000 milliseconds)
-
-
-    function downloadFileWord(filePath) {
-    // Create a new "a" element
-    var a = document.createElement("a");
-
-    // Set the href and download attributes for the link
-    a.href = filePath;
-    a.download = date + "-" + month + "-Daily-Reading";
-
-    // Append the link to the DOM
-    document.body.appendChild(a);
-
-    // Click the link
-    a.click();
-
-    // Remove the link from the DOM
-    document.body.removeChild(a);
-    }
-
-
+      document.querySelector("#loading-screen").style.display = "none";
+    }, 5000);
     var currentDate = new Date(); // Get the current date
     var month = currentDate.getMonth() + 1; // months are zero-indexed, so add 1
     var date = currentDate.getDate();
-
     var pdfFile = "TamilOilnwine/"+month + "-" + date + ".pdf";
-    //var wordFile = month + "-" + date + ".docx";
-
-    //downloadFilePdf(pdfFile);
-    //downloadFile(wordFile);
-
-    setTimeout();
-
+    document.getElementById("pdf-iframe").src = pdfFile;
+    
 </script>
 
 </html>
