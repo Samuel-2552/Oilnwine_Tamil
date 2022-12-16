@@ -23,6 +23,11 @@
             var successful = document.execCommand('copy');
             var msg = successful ? 'successful' : 'unsuccessful';
             console.log('Copying text command was ' + msg);
+            if (successful) {
+                var button = document.getElementById('button');
+                button.innerHTML = 'Copied!';
+                button.style.backgroundColor = '#00ff00';
+            }
         } catch (err) {
             console.log('Oops, unable to copy');
         }
