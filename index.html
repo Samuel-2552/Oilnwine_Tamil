@@ -122,6 +122,9 @@
 
       document.getElementById('copy-button').addEventListener('click', function() {
         readTextFile(txtFile);
+        setTimeout(function(){
+          window.open('https://web.whatsapp.com/','_blank');
+        }, 1500);
       });
 
       function sharePDF() {
