@@ -13,31 +13,37 @@
   </head>
   <body>
     <br><br>
-    <!-- <div class="container">
-        <div class="card text-center">
-            <div class="card-header">
-            Featured
-            </div>
-            <div class="card-body">
-            <h5 class="card-title">Special title treatment</h5>
-            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
-            </div>
-            <div class="card-footer text-muted">
-            2 days ago
-            </div>
-        </div>
-    </div> -->
+    
 
     <div class="container">
         <div class="card bg-dark text-white">
-          <img id="dynamic-image" src="Today.png" style="object-fit: cover;" class="card-img" alt="...">
+          <img id="dynamic-image" src="Yesterday.png" style="object-fit: cover;" class="card-img" alt="...">
           <div class="card-img-overlay justify-text">
-            <h4 class="card-title">Today's Command</h4>
-            <p id="dynamic-content" class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+            <center><h3 class="card-title">இன்ளறய கட்டளள</h3></center>
+            <p id="dynamic-content" class="card-text">உங்கள் ஆண்டவர் இன்ே நாழிளகயினல வருவாசரன்று நீங்கள் அறியாேிருக்கிறபடியிோல் விழித்ேிருங்கள்.</p>
           </div>
         </div>
       </div>
+
+      <div class="container">
+        <div class="card text-center">
+            <div class="card-header">
+            <h4>இன்ளறக்கு படிக்க னவண்டிய னவே பகுேி</h4>
+            </div>
+            <div class="card-body" style="text-align: left;">
+            <!-- <h5 class="card-title">ஆேியாகமம் 1:1-2:25</h5> -->
+            <h5 class="card-text">ஆேியாகமம் 1:1-2:25</h5>
+            <h5 class="card-text">மத்னேயு 1:1-2:12</h5>
+            <h5 class="card-text">ெங்கீேம் 1:1-6</h5> 
+            <h5 class="card-text">நீேிசமாழி 1:1-6</h5>
+            <!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
+            <a href="#" class="btn btn-primary">Listen</a>
+            </div>
+            <!-- <div class="card-footer text-muted">
+            2 days ago
+            </div> -->
+        </div>
+    </div>
       
       <script>
         // Get the elements
@@ -46,7 +52,7 @@
       
         // Set the height of the image based on the content
         function adjustImageHeight() {
-          const contentHeight = dynamicContent.offsetHeight + 70;
+          const contentHeight = dynamicContent.offsetHeight + 90;
           dynamicImage.style.height = `${contentHeight}px`;
         }
       
