@@ -1,80 +1,63 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>LinkedIn Feed Clone</title>
-  <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  <style>
-    /* Custom CSS */
-    body {
-      background-color: #f8f9fa;
-      font-family: Arial, sans-serif;
-    }
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    .card {
-      margin-bottom: 20px;
-      border: none;
-      border-radius: 5px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    }
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
 
-    .card-body {
-      padding: 20px;
-    }
+    <title>Oilnwine</title>
+  </head>
+  <body>
+    <br><br>
+    <!-- <div class="container">
+        <div class="card text-center">
+            <div class="card-header">
+            Featured
+            </div>
+            <div class="card-body">
+            <h5 class="card-title">Special title treatment</h5>
+            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+            <div class="card-footer text-muted">
+            2 days ago
+            </div>
+        </div>
+    </div> -->
 
-    .card-title {
-      font-size: 18px;
-      font-weight: bold;
-      margin-bottom: 10px;
-    }
-
-    .card-text {
-      font-size: 16px;
-      margin-bottom: 20px;
-    }
-
-    .btn-primary {
-      background-color: #007bff;
-      border-color: #007bff;
-    }
-
-    .btn-primary:hover {
-      background-color: #0069d9;
-      border-color: #0062cc;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-8 offset-md-2">
-        <!-- Feed Item -->
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title">John Doe</h5>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis felis eget lacus tincidunt, vitae dictum nisl interdum. Curabitur hendrerit mi ac eros eleifend, non aliquam urna egestas. Vivamus volutpat, quam ut suscipit tempus, sem tortor fringilla turpis, in fringilla turpis lacus ac lacus.</p>
-            <a href="#" class="btn btn-primary">Like</a>
+    <div class="container">
+        <div class="card bg-dark text-white">
+          <img id="dynamic-image" src="Today.png" style="object-fit: cover;" class="card-img" alt="...">
+          <div class="card-img-overlay justify-text">
+            <h4 class="card-title">Today's Command</h4>
+            <p id="dynamic-content" class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
           </div>
         </div>
-
-        <!-- Feed Item -->
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title">Jane Smith</h5>
-            <p class="card-text">Pellentesque hendrerit, mauris sit amet tempor elementum, justo risus consectetur magna, eget bibendum mauris lacus nec turpis. Maecenas eleifend nulla sed tortor scelerisque, a feugiat dolor bibendum. Sed tincidunt ultrices mi a efficitur.</p>
-            <a href="#" class="btn btn-primary">Like</a>
-          </div>
-        </div>
-
-        <!-- Add more feed items here -->
-
       </div>
-    </div>
-  </div>
+      
+      <script>
+        // Get the elements
+        const dynamicImage = document.getElementById('dynamic-image');
+        const dynamicContent = document.getElementById('dynamic-content');
+      
+        // Set the height of the image based on the content
+        function adjustImageHeight() {
+          const contentHeight = dynamicContent.offsetHeight + 70;
+          dynamicImage.style.height = `${contentHeight}px`;
+        }
+      
+        // Call the function initially and on window resize
+        adjustImageHeight();
+        window.addEventListener('resize', adjustImageHeight);
+      </script>
+      
+      
 
-  <!-- Bootstrap JS (Optional) -->
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-</body>
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+  </body>
 </html>
