@@ -30,7 +30,7 @@ body {
     top: 15%;
     left: 10%;
     transform: translate(-5%, -8%);
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.56);
     padding: 20px;
     z-index: 1;
   }
